@@ -1,0 +1,7 @@
+POST http://localhost:8080/calc/multiplica
+Content-Type: application/json
+{
+  "a": 4,
+  "b": 6
+}
+
